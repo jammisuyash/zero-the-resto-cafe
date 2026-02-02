@@ -46,9 +46,6 @@ const BestSellers = () => {
                 
                 <div className="bestseller-footer">
                   <span className="bestseller-price">₹{item.price}</span>
-                  <button className="btn-primary bestseller-btn">
-                    Order Now
-                  </button>
                 </div>
               </div>
             </div>

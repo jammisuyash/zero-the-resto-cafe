@@ -10,7 +10,9 @@ const Hero = () => {
   };
 
   return (
-    <section id="hero" className="hero">
+    <section id="hero" className="hero" style={{
+      backgroundImage: `url('https://customer-assets.emergentagent.com/job_8480f9c9-ddc5-45d9-8b14-ea37252160c1/artifacts/fhrvid9v_Screenshot%202026-02-02%20113329.png'), linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(30, 41, 59, 0.95) 100%)`
+    }}>
       <div className="hero-overlay"></div>
       <div className="hero-content">
         <div className="hero-badge">

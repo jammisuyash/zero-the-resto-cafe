@@ -98,7 +98,6 @@ const Menu = () => {
                 <p className="menu-item-description">{item.description}</p>
                 <div className="menu-item-footer">
                   <span className="menu-item-price">₹{item.price}</span>
-                  <button className="add-btn">Add to Order</button>
                 </div>
               </div>
             ))

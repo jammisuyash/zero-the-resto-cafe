@@ -279,6 +279,7 @@ export const galleryImages = [
   { url: 'https://images.unsplash.com/photo-1712652080841-9e480a2c43ec', alt: 'Pizza', category: 'food' },
   { url: 'https://images.unsplash.com/photo-1567620832903-9fc6debc209f', alt: 'Wings', category: 'food' },
   { url: 'https://images.unsplash.com/photo-1541783245831-57d6fb0926d3', alt: 'Dessert', category: 'food' },
+  { url: 'https://customer-assets.emergentagent.com/job_8480f9c9-ddc5-45d9-8b14-ea37252160c1/artifacts/fhrvid9v_Screenshot%202026-02-02%20113329.png', alt: 'ZERO Cafe Interior', category: 'ambience' },
   { url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4', alt: 'Restaurant Interior', category: 'ambience' },
   { url: 'https://images.unsplash.com/photo-1538333581680-29dd4752ddf2', alt: 'Cozy Atmosphere', category: 'ambience' },
   { url: 'https://images.pexels.com/photos/827528/pexels-photo-827528.jpeg', alt: 'Dining Area', category: 'ambience' },
